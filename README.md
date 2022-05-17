@@ -2,7 +2,7 @@
 - 👀 I’m interested in Building stuff
 - 🌱 I’m currently learning Data Structures and Web-Devlopment
 - 💞️ I’m looking to collaborate on Web Devlopment projects
-- 📫 How to reach me ig @pranjal4real
+- 📫 How to reach me ID-pranjal4real@gmail.com / 190101027@hbtu.ac.in
 
 <!---
 easywork01/easywork01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
