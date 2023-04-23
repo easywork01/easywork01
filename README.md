@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m Pranjal Raj(UID-@easywork01)<br>👀 I’m interested in Building stuff<br>😇 Contributing to OpenSource<br>🌱 I’m currently learning Data Structures and Web-Devlopment<br>💞️ I’m looking to collaborate on Web Development projects<br>📫 How to reach me ID-pranjal4real@gmail.com / 190101027@hbtu.ac.in<br>
 
 
