@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">HBTI '23 grad, Full Stack Dev. Worked on diverse projects. MERN expert, skilled in C++, Data Structures, and OOPs. Passionate about coding and problem-solving.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
