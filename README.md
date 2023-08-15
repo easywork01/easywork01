@@ -5,7 +5,7 @@
 
 - Nowadays, I’m exploring Web Development. I regularly practice DSA questions on [Leetcode.](https://leetcode.com/pranjal4554/)
 
-- 📫 How to reach me **pranjalrajg@gmaial.com**
+- 📫 How to reach me **pranjalrajg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
